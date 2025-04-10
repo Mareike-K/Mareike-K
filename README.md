@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mareike-K
 - 👀 I love Data Analytics and Data Science
-- 🌱 I’m currently looking for a job Python
+- 🌱 I’m currently looking for a job that requires Python-based machine learning skills
 - 💞️ I’m always looking to collaborate on interesting Data projects
 - 📫 How to reach me: Tag me in a discussion
 - 😄 Pronouns: she/her
